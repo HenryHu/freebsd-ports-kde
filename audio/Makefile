@@ -88,7 +88,6 @@
     SUBDIR += cpp-xmms2
     SUBDIR += creox
     SUBDIR += crip
-    SUBDIR += csound
     SUBDIR += csound6
     SUBDIR += ctronome
     SUBDIR += cue2toc
@@ -129,6 +128,7 @@
     SUBDIR += emms
     SUBDIR += enscribe
     SUBDIR += epos-devel
+    SUBDIR += eq10q-lv2
     SUBDIR += esound
     SUBDIR += espeak
     SUBDIR += esperanza
@@ -746,7 +746,6 @@
     SUBDIR += siren
     SUBDIR += skype-call-recorder
     SUBDIR += slv2
-    SUBDIR += smasher
     SUBDIR += snack
     SUBDIR += snd
     SUBDIR += sndio
