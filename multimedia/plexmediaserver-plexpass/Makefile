@@ -1,8 +1,8 @@
 # Created by: KalleDK <plexmaintainer@k-moeller.dk>
 # $FreeBSD$
 
-PORTVERSION=	1.9.7.4441
-DISTVERSIONSUFFIX=e5eb5d5a1
+PORTVERSION=	1.10.0.4523
+DISTVERSIONSUFFIX=648bc61d4
 PORTREVISION=	0
 PKGNAMESUFFIX=	-plexpass
 

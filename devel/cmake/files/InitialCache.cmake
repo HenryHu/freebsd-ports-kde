@@ -19,3 +19,4 @@ set(LIBLZMA_LIBRARY "/usr/lib/liblzma.so" CACHE PATH
 # so enable its use in CPack for the direct generation of FreeBSD
 # packages from software (outside of ports, say) that uses CMake.
 set(CPACK_ENABLE_FREEBSD_PKG ON CACHE BOOL "Enable pkg(8) generator in CPack")
+
